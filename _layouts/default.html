@@ -18,10 +18,10 @@
           {% if site.logo %}
           <img class="header_portrait"src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         </div>
         
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-        <p class='header_description'>{{ site.description }}</p>
+        
 
       </header>
       <section>
@@ -30,13 +30,13 @@
 
       </section>
       
-    <footer>
+    <!-- <footer>
         <ul class="footer_nav">
           <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-twitter"href="#"></a></li>
           <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-github"href="#"></a></li>
           <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-email"href="#"></a></li>
         </ul>
-      </footer>
+      </footer> -->
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

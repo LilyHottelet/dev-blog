@@ -1,7 +1,7 @@
 @import "fonts";
 
 body {
-  background-color: white;
+  background-color: #fdf5ee;
   padding:0;
   margin:0;
   font: 14px/1.5 "Open Sans", sans-serif;
@@ -14,14 +14,13 @@ body {
  
 h1,h1 a
 {
-  color:#3E3544;
+  color:#fdf5ee;
   text-decoration: none;
-  padding-top:3em;
   margin:0;
 }
 
 footer {
-  background-color:#F0EFF0;
+  background-color:#f29ba3;
   margin: auto auto 0 auto;
   width:100%;
   display:flex;
@@ -37,16 +36,16 @@ header{
   display:flex;
   flex-direction: column;
   align-items:center;
-  background-color:#F0EFF0;
+  background-color:#f29ba3;
   width:100%;
   margin:0;
+  padding: 1em 0 1em 0;
 }
 .header_portrait
 {
-  position: relative;
-  top: 50%;
+  padding: 0em 0 1em 0;
   border-radius: 50%;
-  width:11%;
+  width:15%;
 }
 .footer_nav
 {
@@ -87,7 +86,7 @@ section
 {
   text-decoration: none;
   font-weight:900;
-  color:#3E3544;
+  color:#4493b2;
   font-size: 1.5em;
 }
 
@@ -126,4 +125,9 @@ section
 {
 padding:2em 0;
  text-align: right;
+}
+
+hr
+{
+  color : #4493b2;
 }
