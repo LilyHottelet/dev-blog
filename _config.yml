@@ -25,6 +25,7 @@ github_username:  jekyll
 logo : "/assets/img/portrait-round.png"
 
 paginate: 3
+permalink: none
 
 # Build settings
 markdown: kramdown
