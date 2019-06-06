@@ -7,22 +7,21 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
   </head>
   
   <body>
       <header>
-        <div class="header_banner">
-          {% if site.logo %}
-          <img class="header_portrait"src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <div class="blog_banner">
+
+        <h1 class="blog_title"><a class="blog_title_link"href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <p class='blog_description'>{{ site.description }}</p>
+        <ul class="nav">
+            <li class="nav_element"><a class="nav_link"href="{% link about.html %}">ABOUT ME</a></li>
+            <li class="nav_element"><a class="nav_link"href="{% link projects.html %}">PROJECTS</a></li>
+            <li class="nav_element"><a class="nav_link"href="{% link contact.html %}">CONTACT ME</a></li>
+        </ul>
         </div>
         
-        
-
       </header>
       <section>
 
@@ -30,13 +29,6 @@
 
       </section>
       
-    <!-- <footer>
-        <ul class="footer_nav">
-          <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-twitter"href="#"></a></li>
-          <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-github"href="#"></a></li>
-          <li class="footer_nav_element"><a class="footer_nav_link footer_nav_link-email"href="#"></a></li>
-        </ul>
-      </footer> -->
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

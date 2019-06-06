@@ -13,18 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hello World
+title: Alix's Dev Blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just trying to get a blog out there.Just trying to get a blog out there.Just trying to get a blog out there.
+  Thoughts and experiments in game programming and design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-logo : "/assets/img/portrait-new.png"
+logo : "/assets/img/portrait-round.png"
 
 paginate: 3
+permalink: none
 
 # Build settings
 markdown: kramdown
