@@ -1,6 +1,6 @@
 ---
 layout: post
-summary: From Tooling to Quest Management with a sprinkle of AI Developement and UI integration, I have worked on many tasks during my time at eXiin ! 
+summary: A first self-taught experience that taught me a lot about creating systems from scratch.
 photo: assets/img/homicide.png
 category: project
 postDate: Sunday, June 9th 2019

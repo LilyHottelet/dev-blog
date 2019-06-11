@@ -74,7 +74,7 @@ body {
 
 .nav_element
 {
-  padding: 0 2em;
+  padding: 0 1em;
 }
 
 @media only screen and (max-width: 700px) {
@@ -174,7 +174,7 @@ h1
 
   .nav_link--linkedin
   {
-    background-image:url("../img/email.png");
+    background-image:url("../img/linked-in-social.png");
     background-size:contain;
     background-repeat:no-repeat;
     padding-right:1.5em;
@@ -233,6 +233,11 @@ h1
     top: -2px;
     box-shadow: 0 4px 5px rgba(0,0,0,0.2);
   }
+}
+
+h2
+{
+  color:#4493b2;
 }
 
 
