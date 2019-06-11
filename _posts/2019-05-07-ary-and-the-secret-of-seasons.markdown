@@ -1,7 +1,7 @@
 ---
 layout: post
 summary: From Tooling to Quest Management with a sprinkle of AI Developement and UI integration, I have worked on many tasks during my time at eXiin ! 
-photo: assets/img/arytest.png
+photo: assets/img/ary-cover-thumbnail.png
 category: project
 postDate: Sunday, June 9th 2019
 ---
