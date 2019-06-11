@@ -1,7 +1,7 @@
 ---
 layout: post
 summary: My first profesionnal experience working on a puzzle solving, edutainment project. 
-photo: assets/img/arytest.png
+photo: assets/img/algobot-thumbnail.jpg
 categories: project
 postDate: Sunday, June 10th 2019
 title: Algobot
