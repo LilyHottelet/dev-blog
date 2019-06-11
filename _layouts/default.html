@@ -16,17 +16,31 @@
         <h1 class="blog_title"><a class="blog_title_link"href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         <p class='blog_description'>{{ site.description }}</p>
         <ul class="nav">
-            <li class="nav_element"><a class="nav_link"href="{% link about.html %}">ABOUT ME</a></li>
-            <li class="nav_element"><a class="nav_link"href="{% link projects.html %}">PROJECTS</a></li>
-            <li class="nav_element"><a class="nav_link"href="{% link contact.html %}">CONTACT ME</a></li>
+            <li class="nav_element"><a class="nav_link"href="{% link blog.html %}">BLOG</a></li>
+            <li class="nav_element"><a class="nav_link nav_link--twitter"href="#"></a></li>
+            <li class="nav_element"><a class="nav_link nav_link--linkedin"href="#"></a></li>
+            <li class="nav_element"><a class="nav_link nav_link--mail"href="#"></a></li>
+
         </ul>
         </div>
         
       </header>
       <section>
 
-      {{ content }}
-
+      {% for item in paginator.posts %}
+      {%if forloop.first%}<ul class="card_container">{%endif%}
+        <a class="card" href="{{item.url}}">
+            <div class="thumbnail" style="background-image: url({{item.photo}});"alt=""></div>
+            <div class="blogPost_info">
+                <li class="blogPosts__item">{{item.title}}</li>
+                <p class="blogPosts__date">{{item.postDate}}</p>
+                <p class="blogPosts__summary">{{item.summary}}</p>
+            </div>
+        </a>
+          {%if forloop.last%}</ul>{%endif%}
+      {% endfor %}
+      
+      {{content}}
       </section>
       
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

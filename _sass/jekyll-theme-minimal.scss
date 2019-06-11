@@ -15,7 +15,7 @@ body {
 .blog_title
 {
   margin:0;
-  padding: 4em 0 0 0 ;
+  padding: 3.5em 0 0 0 ;
 }
 .blog_title_link  
 {
@@ -80,7 +80,7 @@ body {
 @media only screen and (max-width: 700px) {
   .nav_element {
 
-    padding: 1em 2em;
+    padding: 0.4em 2em;
   }
 }
 
@@ -120,17 +120,26 @@ section
   margin : 0 auto;
 }
 
-.blogPosts
-{
-  list-style: none;
+@media only screen and (max-width: 700px) {
+  section {
+
+    width:80%;
+  }
 }
 
-.blogPosts__link
+
+.blogPosts__item
 {
   text-decoration: none;
   font-weight:900;
   color:#4493b2;
   font-size: 1.5em;
+}
+
+
+.blogPost_info
+{
+  padding:10px;
 }
 
 h1
@@ -153,9 +162,78 @@ h1
 {
  padding:2em 0;
  text-align: right;
+ }
+
+  .nav_link--mail
+  {
+    background-image:url("../img/email.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    padding-right:1.5em;
+  }
+
+  .nav_link--linkedin
+  {
+    background-image:url("../img/email.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    padding-right:1.5em;
+  }
+
+  .nav_link--twitter
+  {
+    background-image:url("../img/twitter-logo-button.png");
+    background-size:contain;
+    background-repeat:no-repeat;
+    padding-right:1.5em;
+  }
+
+    .thumbnail
+    {
+      padding-bottom: 60%;
+      background-size: cover;
+      background-position: center center;
+    }
+
+  .card_container
+  {
+    list-style:none;
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+    
+    display: grid;
+    
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    
+    @media (min-width: 30em) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+  }
+.card
+{
+  background: white;
+  text-decoration: none;
+  color: #444;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+
+  // sets up hover state
+  position: relative;
+  top: 0;
+  transition: all .1s ease-in;
+
+    
+  &:hover {
+    top: -2px;
+    box-shadow: 0 4px 5px rgba(0,0,0,0.2);
+  }
 }
 
-hr
-{
-  color : #4493b2;
-}
+
+

@@ -1,0 +1,19 @@
+---
+layout: post
+summary: From Tooling to Quest Management with a sprinkle of AI Developement and UI integration, I have worked on many tasks during my time at eXiin ! 
+photo: assets/img/arytest.png
+category: project
+postDate: Sunday, June 9th 2019
+title: Graduate work - Homicide
+---
+My graduate work is the reason why I went into game development in the first place. At the time I was completing a bachelor in multi-media and specialising in web development. My love of story telling and story-driven content brought me to the idea of developing a game. That’s when I got interested in Unity. Little by little I learned the ropes of C# programming for games, I assembled a team of artists and we started working on this project in the hopes of creating an investigation style game, set in the 1940’s. 
+
+We worked on it on and off for about a year and a half, combining it with our classes and other assignments. 
+I was in charge of all the programming myself but, as it often happens with student projects, I also took on the roles of project manager or game designer from time to time. 
+
+As one would expect I made many mistakes working . In fact, the project barely made it as a demo. 
+From underestimating scope to getting lost in never-ending refactors and failing to reach out for the advice of senior devs. The team went through all of the pitfalls of a first-ever game project. 
+
+I still made every single system from scratch, including a basic story manager, a dynamic scene loading system and some point&click style interactions. 
+
+It all sounds pretty negative, but given some perspective, I am glad we made those mistakes. This whole experience taught me to fail and to keep going. But more importantly; it still set a strong base for my developer career. 
