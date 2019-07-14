@@ -4,11 +4,18 @@ summary: From Tooling to Quest Management with a sprinkle of AI Developement and
 photo: assets/img/ary-cover-thumbnail.png
 category: project
 postDate: Sunday, June 9th 2019
+slides:
+- assets/img/cat-and-me.JPG
+- assets/img/logo.png
+- assets/img/cat_weird.gif
 ---
+{:.centered}
 Ary and the Secret of Seasons is a 3D puzzle adventure game where the player bends the seasons to his will in order to solve puzzles and affect his environment. The game is developed by a small Belgian studio and published by Modus Games.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hNVicO5mBq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="resp-container">
+<iframe class="resp-iframe" src="https://www.youtube.com/embed/hNVicO5mBq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+{:.justify}
 I have joined the studio of eXiin just under a year ago, when I was given the chance to do/perform/ my internship there.  Soon after, I was hired to continue working on the project after my school graduation. I have been working there as a full time programmer ever since.During these past few months, I have had the opportunity to perform a wide variety of tasks, which sometimes allowed me to experiment outside of my comfort zone. This continuous learning experience has helped tremendously with figuring out what I enjoy the most about my job. As I go, I find that it also allows me to identify my strengths, while still working on improving my weaknesses.
 
 Here’s a small overview of what I have contributed to the project.

@@ -1,0 +1,13 @@
+<div>
+  <div class="flexslider">
+      <ul class="slides">
+            {% for image in page.slides%}
+            <li>
+                  <img src="{{site.baseurl}}/{{image}}">
+                  <!-- <p class="flex-caption">{{ page.excerpt }}</p> -->
+              </a>
+           </li>
+            {% endfor %}
+      </ul>
+  </div>
+</div>

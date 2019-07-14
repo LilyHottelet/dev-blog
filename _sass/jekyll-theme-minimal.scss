@@ -44,9 +44,9 @@ body {
   display:flex;
   flex-direction: column;
   align-items:center;
-  background-image: url("../img/covertexture.png");
+  background-image: url("../img/test_bg.jpg");
   background-repeat: no-repeat;
-  background-size: cover; 
+  background-size: cover;
   width:100%;
   margin:0;
 }
@@ -198,9 +198,8 @@ h1
   .card_container
   {
     list-style:none;
-    width: 90%;
     max-width: 1240px;
-    margin: 0 auto;
+    padding:0;
     
     display: grid;
     
@@ -240,5 +239,27 @@ h2
   color:#4493b2;
 }
 
+.centered
+{
+  text-align:center;
+}
 
+.justify
+{
+  text-align: justify;
+}
 
+.resp-container {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+}
+
+.resp-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
