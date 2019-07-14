@@ -1,16 +1,27 @@
 ---
 layout: post
 summary: My first profesionnal experience working on a puzzle solving, edutainment project. 
-photo: assets/img/algobot-thumbnail.jpg
+photo: assets/img/algo01.png
 categories: project
 postDate: Sunday, June 10th 2019
 title: Algobot
+slides:
+- assets/img/algo01.png
+- assets/img/algo02.jpg
+- assets/img/algo03.jpg
 ---
-Algobot is a puzzle solving edutainment game developed by Fishing Cactus, an independent Belgian studio. 
+
+{:.summary}
+Algobot is a puzzle solving edutainment game developed by Fishing Cactus, an indie belgian studio. 
+In this title, the player uses algorithms to command Algo Bot, a service droid, and help PAL, a cantankerous line manager, to contain the crisis. 
+
+## Overview
 I had the opportunity to work on the project for 7 weeks, in the context of a programming internship. 
-It was my very first professional experience in the video game industry and at the time the studio actually took a chance on me because I had no prior education in game development or C# programming. I self taught game enthusiast with a web development background. 
+It was my very first professional experience in the video game industry, after a few months of being self-taught.
+For this reason, I would say the tasks I was assigned reflected the level of experience I had back then.  
 
-For this reason, I would say the tasks I was assigned reflected the level of experience I had then.  
-During those short 7 weeks I leaned about coding standards and basic git flow through version control and code reviews. As I got more familiar with the project, I also learned about design patterns and how some of them were implemented in the project. I learned a lot more about the Unity Engine and its editor through UI integration. I worked on the implementation of in-game menus as well as some level editor features. 
+## My Contributions to the project
 
-Last but not least, my experience working on Algobot taught me a lot about what it’s like to work in a team environment and to communicate with different departments, which I think is a valuable skill. 
+* **UI integration** : I integrated some of the menus and navigation with localization.
+* **Gameplay** : I implemented new mechanics into the existing code base, following the design.
+* **Dialogue System** : I wrote the very beginning of the dialogue system, with a basic implementation.

@@ -5,6 +5,10 @@ photo: assets/img/homicide.png
 category: project
 postDate: Sunday, June 9th 2019
 title: Graduate work - Homicide
+slides:
+- assets/img/homicide01.png
+- assets/img/homicide02.png
+- assets/img/homicide03.png
 ---
 My graduate work is the reason why I went into game development in the first place. At the time I was completing a bachelor in multi-media and specialising in web development. My love of story telling and story-driven content brought me to the idea of developing a game. That’s when I got interested in Unity. Little by little I learned the ropes of C# programming for games, I assembled a team of artists and we started working on this project in the hopes of creating an investigation style game, set in the 1940’s. 
 
