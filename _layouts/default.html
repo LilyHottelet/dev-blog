@@ -38,6 +38,7 @@
       {%if forloop.first%}<ul class="card_container">{%endif%}
         <a class="card" href="{{item.url}}">
             <div class="thumbnail" style="background-image: url({{item.photo}});"alt=""></div>
+            <div class="card__line"></div>
             <div class="blogPost_info">
                 <li class="blogPosts__item">{{item.title}}</li>
                 <p class="blogPosts__date">{{item.postDate}}</p>
