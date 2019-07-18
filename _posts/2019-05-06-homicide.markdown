@@ -11,7 +11,7 @@ slides:
 - assets/img/homicide03.png
 ---
 {:.summary}
-Homicide : The Fallen Idol is a point and click, investigation style prototype. When a movie star is found dead at the Whitmore Hotel Galla, Inpsector McCoy is on the case, snooping around for information.
+Homicide : The Fallen Idol is a point and click, investigation style prototype. When a movie star is found dead at the Whitmore Hotel gala, Inspector McCoy is on the case, snooping around for information.
 
 ## Overview
 My graduate work is the reason why I went into game development in the first place. At the time I was completing a bachelor in multi-media and specialising in web development. My love of story telling and story-driven content brought me to the idea of developing a game. That’s when I got interested in Unity. Little by little I learned the ropes of C# programming for games, I assembled a team of artists and we started working on this project in the hopes of creating an investigation style game, set in the 1940’s. 
@@ -38,4 +38,4 @@ This type of project was very much a first for our school and we had to present 
 
 * **Task Planning** : I kept track of a long-term as well as short-term planning for each person and area of developement. This served as a strong base for setting expectations, both for us and our teachers.
 
-* **Communication** : Communication inside the team was important, but a big part of my role in management was to communicate about the project and the project's need to other people. I also supervised the writing, recording and editing of the tracks and trailers. 
+* **Communication** : Communication inside the team was important, but a big part of my role in management was to communicate about the project and the project's need to other people. I also supervised the writing, recording and editing of the voice over tracks and trailer. 
