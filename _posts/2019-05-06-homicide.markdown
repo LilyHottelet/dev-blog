@@ -10,14 +10,32 @@ slides:
 - assets/img/homicide02.png
 - assets/img/homicide03.png
 ---
+{:.summary}
+Homicide : The Fallen Idol is a point and click, investigation style prototype. When a movie star is found dead at the Whitmore Hotel Galla, Inpsector McCoy is on the case, snooping around for information.
+
+## Overview
 My graduate work is the reason why I went into game development in the first place. At the time I was completing a bachelor in multi-media and specialising in web development. My love of story telling and story-driven content brought me to the idea of developing a game. That’s when I got interested in Unity. Little by little I learned the ropes of C# programming for games, I assembled a team of artists and we started working on this project in the hopes of creating an investigation style game, set in the 1940’s. 
 
-We worked on it on and off for about a year and a half, combining it with our classes and other assignments. 
-I was in charge of all the programming myself but, as it often happens with student projects, I also took on the roles of project manager or game designer from time to time. 
+## My contributions to the project
+For this project, I was the only programmer. But I was also a beginner, trying to teach myself C# code while developing the systems for the game. 
 
-As one would expect I made many mistakes working . In fact, the project barely made it as a demo. 
-From underestimating scope to getting lost in never-ending refactors and failing to reach out for the advice of senior devs. The team went through all of the pitfalls of a first-ever game project. 
+### Programming
+Because I was alone in programming, all of the code for this project was mine. Here are some interesting things I got to develop : 
 
-I still made every single system from scratch, including a basic story manager, a dynamic scene loading system and some point&click style interactions. 
+* **Dialogue and Scenario Tools** : I wrote the dialogues myself using a markup language called [Ink](https://www.inklestudios.com/ink/) which integrates easily in Unity. The base of the system allowed us to implement branching and voice over tracks. I also developed an editor tool to create scenarios for production and rapid prototyping.
 
-It all sounds pretty negative, but given some perspective, I am glad we made those mistakes. This whole experience taught me to fail and to keep going. But more importantly; it still set a strong base for my developer career. 
+* **Interaction System** : I wrote a flexible interaction system that could easily be extended to support more interaction types. Even if I did most of the setup work, I tried to focus on offering a "designer-friendly" solution to easily place more interactions and scenario elements in the scene. 
+
+* **Scene Management** : The game was happening in a hotel, which allowed the player to use elevators to switch floors. I used the elevator as a way to dynamically load and unload scenes as well as save the current state of the game.
+
+* **UI Integration** : I designed and integrated all of the UI, in a classic point and click style.
+
+
+### Project Management
+This type of project was very much a first for our school and we had to present a strong planning in order to convince the teachers that we would be able to deliver something. I took charge of the project management and made sure we were staying on track over the course of the assignment.
+
+* **Agile Practices** : Although we didn't adopt a full agile practice, I introduced the daily meeting, some variation of the sprint planning as well as regular reviews and check-ins. This allowed us to re-evaluate our deadlines often and prevent frustration in the team. 
+
+* **Task Planning** : I kept track of a long-term as well as short-term planning for each person and area of developement. This served as a strong base for setting expectations, both for us and our teachers.
+
+* **Communication** : Communication inside the team was important, but a big part of my role in management was to communicate about the project and the project's need to other people. I also supervised the writing, recording and editing of the tracks and trailers. 
