@@ -20,6 +20,9 @@ I had the opportunity to work on the project for 7 weeks, in the context of a pr
 It was my very first professional experience in the video game industry, after a few months of being self-taught.
 For this reason, I would say the tasks I was assigned reflected the level of experience I had back then.  
 
+## Technologies
+*Unity 3D, C#, Visual Studio, Git with Babun*
+
 ## My Contributions to the project
 
 * **UI integration** : I integrated some of the menus and navigation with localization.
