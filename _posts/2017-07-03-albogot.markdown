@@ -3,7 +3,7 @@ layout: post
 summary: My first profesionnal experience working on a puzzle solving, edutainment project. 
 photo: assets/img/algo01.png
 categories: project
-postDate: Sunday, June 10th 2019
+postDate: July to August 2017
 title: Algobot
 slides:
 - assets/img/algo01.png
@@ -20,8 +20,12 @@ I had the opportunity to work on the project for 7 weeks, in the context of a pr
 It was my very first professional experience in the video game industry, after a few months of being self-taught.
 For this reason, I would say the tasks I was assigned reflected the level of experience I had back then.  
 
+## Technologies
+*Unity 3D, C#, Visual Studio, Git with Babun*
+
 ## My Contributions to the project
 
 * **UI integration** : I integrated some of the menus and navigation with localization.
-* **Gameplay** : I implemented new mechanics into the existing code base, following the design.
+* **Gameplay** : I implemented new mechanics into the existing code base, following the original design.
 * **Dialogue System** : I wrote the very beginning of the dialogue system, with a basic implementation.
+* **Editor Tools** : I added small features into an existing level editor.

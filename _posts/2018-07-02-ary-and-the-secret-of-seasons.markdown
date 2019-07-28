@@ -1,9 +1,9 @@
 ---
 layout: post
-summary: From Tooling to Quest Management with a sprinkle of AI Developement and UI integration, I have worked on many tasks during my time at eXiin ! 
+summary: My first job as a programmer. Developed some gameplay systems and oversaw quest design.
 photo: assets/img/ary-cover-thumbnail.png
 category: project
-postDate: Sunday, June 9th 2019
+postDate: July 2018 to September 2019
 slides:
 - assets/img/ary01.jpg
 - assets/img/ary02.jpg
@@ -14,13 +14,13 @@ slides:
 Ary and the Secret of Seasons is an award-winning 3D puzzle adventure game. In this indie title, the player takes control of the seasons and uses them to solve puzzles, defeat enemies, and discover the beautiful world of Valdi.
 The game is the result of a collaboration between two belgian studios, eXiin and Fishing Cactus, and is published by Modus Games.
 
-<!-- <div class="resp-container">
-<iframe class="resp-iframe" src="https://www.youtube.com/embed/hNVicO5mBq0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
 
 ## Overview
 I joined the project as an intern and then got hired to keep working on the game. As a programmer I have been able to 
 contribute to the existing code base, but I also took on some design and management related tasks. Because I am a firm believer in team communication and structure, I took extra care of these aspects in my work. This involved leading and partaking in studio meetings, sometimes assigning and keeping track of tasks, as well as working in close collaboration with artists, designers and writers. 
+
+## Technologies
+*Unity 3D, C#, Visual Studio, Git using SourceTree, Photoshop*
 
 ## My contributions to the project
 
