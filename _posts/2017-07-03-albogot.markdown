@@ -3,7 +3,7 @@ layout: post
 summary: My first profesionnal experience working on a puzzle solving, edutainment project. 
 photo: assets/img/algo01.png
 categories: project
-postDate: Sunday, June 10th 2019
+postDate: July to August 2017
 title: Algobot
 slides:
 - assets/img/algo01.png

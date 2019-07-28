@@ -3,7 +3,7 @@ layout: post
 summary: A first self-taught experience that taught me a lot about creating systems from scratch.
 photo: assets/img/homicide.png
 category: project
-postDate: Sunday, June 9th 2019
+postDate: March 2017 to June 2018
 title: Graduate work - Homicide
 slides:
 - assets/img/homicide01.png
