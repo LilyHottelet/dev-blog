@@ -4,6 +4,7 @@ summary: My first job as a programmer that evolved into a multi-task design role
 photo: assets/img/ary-cover-thumbnail.png
 category: designProject
 postDate: July 2018 to September 2019
+title: Ary and the Secret of Seasons
 slides:
 - assets/img/ary01.jpg
 - assets/img/ary02.jpg
