@@ -2,7 +2,7 @@
 layout: post
 summary: My first profesionnal experience working on a puzzle solving, edutainment project. 
 photo: assets/img/algo01.png
-categories: projectDesign
+categories: designProject
 postDate: July to August 2017
 title: Algobot
 slides:
