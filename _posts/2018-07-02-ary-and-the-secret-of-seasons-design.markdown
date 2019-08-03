@@ -21,21 +21,21 @@ I joined the project as an intern and then got hired to keep working on the game
  
 
 ## Technologies
-*Unity 3D, C#, Visual Studio, Git using SourceTree, Photoshop*
+*Unity 3D, C#, Visual Studio, Git using SourceTree, Photoshop.*
 
 ## My contributions to the project
 
 ### Quest Design
-* **Story Review** : In collaboration with different writers, I helped review the story of the game as a whole. I strived to adress every uncertainty or possible weakness in the plot while making sure the story changes didn't impact the production or the gameplay in a negative way. The goal is always to provide the player with the best possible experience.
+* **Story Review** : In collaboration with different writers, I helped review the story of the game as a whole. I strived to adress every uncertainty or possible weakness in the plot while making sure the story changes didn't impact the production or the gameplay in a negative way. 
 * **Design Documents** : I was responsible for designing the side quest content, sometimes in collaboration with other designers, sometimes individually. For each quest proposal that made it through the approval process, I created documents to detail the resources needed from each department. These served as a reference for level designers and writers and allowed the different people involved to quickly get to the information they needed. I also created other broader documents with the help of other designers to offer more of a macro approach and make sure the story and game feel were consistent throughout the game.
 * **Dialogue Writing** : In collaboration with writers, I worked to shape the dialogue for all of the side quest content, using my own tools.
 * **Programming Systems And Tools** : I designed and wrote all of the systems that relate to quests and dialogues, putting the emphasis on usability. I went the extra mile to make my tools flexible, intuitive and really approachable for designers without programming knowledge. I also provided documentation for all of my systems and tools.
 * **In-Game Integration** : I integrated a large portion of the side quest content in the game but also taught other designers to use the system so that they could implement content of their own. 
   
 ### UI Design and Integration
-* **Designed a new look for the UI** : Creation of mockups with updated style guidelines to give the UI a new look and feel.
-* **Menu Integration** : Implemented the new quest and dialogue related windows as well as menus, using Unity UI.
-* **Notification System** : Designed and implemented various notifications styles to relay quest information to the player.
+* **Designed a new look for the UI** : I created mockups with updated style guidelines to give the UI a new look and feel.
+* **Menu Integration** : I implemented the new quest and dialogue related windows as well as menus, using Unity UI.
+* **Notification System** : I designed and implemented various notifications styles to relay quest information to the player.
 
 ### Game presentations
 I have been presenting the game in various settings, in English and in French. At events like E3 or Gamescom, I have been able to speak to the press as well as potential investors and social media influencers about what makes the game unique and worthwhile. I also played and commented press demos in real time.

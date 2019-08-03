@@ -12,7 +12,7 @@ slides:
 ---
 
 {:.summary}
-Algobot is a puzzle solving edutainment game developed by Fishing Cactus, an indie belgian studio. 
+Algobot is a puzzle solving edutainment game developed by Fishing Cactus, an indie Belgian studio. 
 In this title, the player uses algorithms to command Algo Bot, a service droid, and help PAL, a cantankerous line manager, to contain the crisis. 
 
 ## Overview
@@ -21,7 +21,7 @@ It was my very first professional experience in the video game industry, after a
 For this reason, I would say the tasks I was assigned reflected the level of experience I had back then.  
 
 ## Technologies
-*Unity 3D, C#, Visual Studio, Git with Babun*
+*Unity 3D, C#, Visual Studio, Git with Babun.*
 
 ## My Contributions to the project
 
