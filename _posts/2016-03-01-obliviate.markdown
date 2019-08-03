@@ -16,6 +16,8 @@ Obliviate is a project I directed for a VFX class. Our concept was to make a tea
 ## Overview
 For this project, I took on the role of director and was responsible for the management of our VFX artist team, as well as a small camera crew. Because I had experience with both computer graphics and camera work, I felt I could really understand the constraints of the project and plan the work efficiently. The project is not public but can be viewed here. Overall, I would say that my role was to make sure the style and intentions were consistent throughout the whole process. I aslo acted as a central communication point for all the people involved.
 
+## Technologies
+*Adobe Premiere, Photoshop, After Effects, Nuke, Pro Tools.*
 
 ## Writing process
 The challenge of student projects is always to scope the work adequately, since the resources are limited. For this particular assignment, we also had to come up with creative ways to incorporate real and virtual environments, as well as external footage. Here's how I approached the work in my director role : 

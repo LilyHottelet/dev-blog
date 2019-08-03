@@ -12,7 +12,7 @@ slides:
 
 {:.summary}
 Ary and the Secret of Seasons is an award-winning 3D puzzle adventure game. In this indie title, the player takes control of the seasons and uses them to solve puzzles, defeat enemies, and discover the beautiful world of Valdi.
-The game is the result of a collaboration between two belgian studios, eXiin and Fishing Cactus, and is published by Modus Games.
+The game is the result of a collaboration between two Belgian studios, eXiin and Fishing Cactus, and is published by Modus Games.
 
 
 ## Overview

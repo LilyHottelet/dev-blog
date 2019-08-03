@@ -17,7 +17,7 @@ Homicide : The Fallen Idol is a point and click, investigation style prototype. 
 My graduate work is the reason why I went into game development in the first place. At the time I was completing a bachelor in multi-media and specialising in web development. My love of story telling and story-driven content brought me to the idea of developing a game. That’s when I got interested in Unity. Little by little I learned the ropes of C# programming for games, I assembled a team of artists and we started working on this project in the hopes of creating an investigation style game, set in the 1940’s. 
 
 ## Technologies
-*Unity 3D, C#, Rider, Ink, Photoshop, Adobe Premiere*
+*Unity 3D, C#, Rider, Ink, Photoshop, Adobe Premiere.*
 
 ## My contributions to the project
 For this project, I was the only programmer. But I was also a beginner, trying to teach myself C# code while developing the systems for the game. 
