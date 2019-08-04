@@ -20,7 +20,7 @@ I joined the project as an intern and then got hired to keep working on the game
 contribute to the existing code base, but I also took on some design and management related tasks. Because I am a firm believer in team communication and structure, I took extra care of these aspects in my work. This involved leading and partaking in studio meetings, sometimes assigning and keeping track of tasks, as well as working in close collaboration with artists, designers and writers. 
 
 ## Technologies
-*Unity 3D, C#, Visual Studio, Git using SourceTree, Photoshop*
+*Unity 3D, C#, Visual Studio, Git using SourceTree, Photoshop.*
 
 ## My contributions to the project
 

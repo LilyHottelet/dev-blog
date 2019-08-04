@@ -1,14 +1,16 @@
 ---
 layout: post
 summary: Direction of a VFX short film.
-photo: assets/img/personal.JPG
+photo: assets/img/obliviate.png
 category: designProject
 postDate: April 2016
 title: Obliviate - Student Project
 slides:
-- assets/img/personal01.png
-- assets/img/personal02.png
-- assets/img/personal03.png
+- assets/img/obliviate01.jpeg
+- assets/img/obliviate02.jpeg
+- assets/img/obliviate03.jpeg
+- assets/img/obliviate04.jpeg
+
 ---
 {:.summary}
 Obliviate is a project I directed for a VFX class. Our concept was to make a teaser for our dream video game : a Harry Potter themed VR experience.
