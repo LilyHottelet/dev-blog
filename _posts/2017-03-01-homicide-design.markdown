@@ -7,8 +7,8 @@ postDate: March 2017 to June 2018
 title: Graduate work - Homicide
 slides:
 - assets/img/homicide07.png
-- assets/img/homicide-gif01.gif
-- assets/img/homicide-gif02.gif
+- assets/img/homicide-gif01-small.gif
+- assets/img/homicide-gif02-small.gif
 - assets/img/homicide01.png
 - assets/img/homicide02.png
 - assets/img/homicide03.png
