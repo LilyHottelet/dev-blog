@@ -6,6 +6,7 @@ category: designProject
 postDate: March 2017 to June 2018
 title: Graduate work - Homicide
 slides:
+- assets/img/homicide07.png
 - assets/img/homicide-gif01.gif
 - assets/img/homicide-gif02.gif
 - assets/img/homicide01.png
@@ -14,7 +15,7 @@ slides:
 - assets/img/homicide04.png
 - assets/img/homicide05.png
 - assets/img/homicide06.png
-- assets/img/homicide07.png
+
 
 
 
