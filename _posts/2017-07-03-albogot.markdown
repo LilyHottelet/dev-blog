@@ -9,6 +9,9 @@ slides:
 - assets/img/algo01.png
 - assets/img/algo02.jpg
 - assets/img/algo03.jpg
+- assets/img/algo04.jpg
+- assets/img/algo05.jpg
+
 ---
 
 {:.summary}

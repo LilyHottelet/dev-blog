@@ -8,6 +8,10 @@ slides:
 - assets/img/ary01.jpg
 - assets/img/ary02.jpg
 - assets/img/ary03.jpg
+- assets/img/ary04.jpg
+- assets/img/ary05.png
+- assets/img/ary06.png
+- assets/img/ary07.png
 ---
 
 {:.summary}

@@ -6,17 +6,21 @@ category: designProject
 postDate: April 2016
 title: Obliviate - Student Project
 slides:
-- assets/img/obliviate01.jpeg
 - assets/img/obliviate02.jpeg
+- assets/img/obliviate01.jpeg
 - assets/img/obliviate03.jpeg
 - assets/img/obliviate04.jpeg
+- assets/img/obliviate05.png
+- assets/img/obliviate06.png
+- assets/img/obliviate07.png
+
 
 ---
 {:.summary}
-Obliviate is a project I directed for a VFX class. Our concept was to make a teaser for our dream video game : a Harry Potter themed VR experience.
+Obliviate is a project I directed for a VFX class. Our concept was to make a teaser for our dream video game : a Harry Potter themed action game.
 
 ## Overview
-For this project, I took on the role of director and was responsible for the management of our VFX artist team, as well as a small camera crew. Because I had experience with both computer graphics and camera work, I felt I could really understand the constraints of the project and plan the work efficiently. The project is not public but can be viewed here. Overall, I would say that my role was to make sure the style and intentions were consistent throughout the whole process. I aslo acted as a central communication point for all the people involved.
+For this project, I took on the role of director and was responsible for the management of our VFX artist team, as well as a small camera crew. Because I had experience with both computer graphics and camera work, I felt I could really understand the constraints of the project and plan the work efficiently. The project is not public due to picture and music rights but [can be viewed here](https://youtu.be/9f-y9ccReKk). Overall, I would say that my role was to make sure the style and intentions were consistent throughout the whole process. I aslo acted as a central communication point for all the people involved.
 
 ## Technologies
 *Adobe Premiere, Photoshop, After Effects, Nuke, Pro Tools.*
