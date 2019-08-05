@@ -6,9 +6,19 @@ category: designProject
 postDate: March 2017 to June 2018
 title: Graduate work - Homicide
 slides:
+- assets/img/homicide-gif01.gif
+- assets/img/homicide-gif02.gif
 - assets/img/homicide01.png
 - assets/img/homicide02.png
 - assets/img/homicide03.png
+- assets/img/homicide04.png
+- assets/img/homicide05.png
+- assets/img/homicide06.png
+- assets/img/homicide07.png
+
+
+
+
 ---
 {:.summary}
 Homicide : The Fallen Idol is an investigation style game prototype. When a movie star is found dead at the Whitmore Hotel gala, Inspector McCoy is on the case, snooping around for information.
@@ -31,7 +41,7 @@ Because it was a student project and it was a first game experience, we weren't 
 
 * **Voice Acting** : I wrote indications for all the lines and sent it off to the actors overseas. After receiving the audio tracks, I edited it all into lines and integrated it in the game.
 
-* **Game Trailer** : I oversaw the editing of the trailer of the game (which can be found here).
+* **Game Trailer** : I oversaw the editing of the trailer of the game [which can be found here](https://youtu.be/3W0X8m_bzIo).
 
 
 ### Project Management
